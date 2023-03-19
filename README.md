@@ -8,7 +8,7 @@ passe o mouse emcima da lâmpada (lâmpada liga), retire o mouse de cima da lâm
 click duas vezes emcima da lâmpada (Lâmpada quebra).
 Mérito do projeto: Pofessor Fernando Leonid.
 
-[🔗 Clique aqui para acessar](https://marcos-franco.github.io/LampadaJavascript/)
+[🔗 Clique aqui para acessar o site Lâmpada](https://marcos-franco.github.io/LampadaJavascript/)
 
 
 ## 🛠 Tecnologias:
